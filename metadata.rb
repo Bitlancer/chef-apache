@@ -1,0 +1,7 @@
+name 'apache'
+maintainer 'Matt Juszczak'
+maintainer_email 'mjuszczak@bitlancer.com'
+license 'all_rights'
+description 'Installs/Configures apache'
+long_description 'Installs/Configures apache'
+version '0.1.0'
